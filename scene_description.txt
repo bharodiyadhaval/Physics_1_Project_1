@@ -1,0 +1,244 @@
+camx 0.0
+camy 5.0
+camz 10.0
+models 6
+start1
+file Flat_XZ_Plane_xyz.ply
+name PlaneXZ
+objects 3
+object1
+scale 1.0
+x -4.0 
+y -4.0
+z 0.0 
+r 0.0
+g 1.0 
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object2
+scale 1.0
+x 7.6 
+y 3.5 
+z 0.0 
+r 0.0
+g 1.0 
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 90.0
+object3
+scale 1.0
+x -15.0 
+y 0.0 
+z 0.0 
+r 0.5
+g 0.1 
+b 0.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz -90.0
+start2
+file box.ply
+name box
+objects 1
+object1
+scale 4.0
+x -5.0 
+y -4.0 
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+start3
+file box2.ply
+name box2
+objects 1
+object1
+scale 4.0
+x -1.325 
+y -0.425
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+start4
+file box3.ply
+name box3
+objects 1
+object1
+scale 4.0
+x 2.26
+y 3.127
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+start5
+file box4.ply
+name box4
+objects 1
+object1
+scale 4.0
+x 5.85
+y 6.675
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 90.0
+start6
+file Sphereply_xyz.ply
+name SphereRadius1
+objects 11
+object1
+scale 0.2
+x -5.0
+y 3.5
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object2
+scale 0.2
+x -6.0
+y 5.5
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object3
+scale 0.2
+x -4.3
+y 6.85
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object4
+scale 0.3
+x -1.0
+y 5.5
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object5
+scale 0.2
+x -0.9
+y 6.0
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object6
+scale 0.3
+x 2.0
+y 7.42
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object7
+scale 0.3
+x 2.3
+y 9.42
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object8
+scale 0.2
+x 2.7
+y 10.423
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object9
+scale 0.5
+x 5.5
+y 15.1
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object10
+scale 0.3
+x 5.0
+y 13.4
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
+object11
+scale 0.2
+x 5.6
+y 12.6
+z 0.0
+r 1.0
+g 1.0
+b 1.0
+orientationpre 0.0
+orientationpostx 0.0
+orientationposty 0.0
+orientationpostz 0.0
